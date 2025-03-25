@@ -1,1 +1,1 @@
-Some of the exercises I did to practice OOP concepts in uni.
+Some of the exercises I did to practice OOP concepts in college.
